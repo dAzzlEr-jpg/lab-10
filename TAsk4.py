@@ -5,8 +5,8 @@ array1 = np.array([10, 20, 35, 40])
 array2 = np.array([5, 10, 15, 2])
 
 print("--- Початкові дані ---")
-print(f"Масив 1 (array1): {array1}")
-print(f"Масив 2 (array2): {array2}")
+print(f"Масив 1: {array1}")
+print(f"Масив 2: {array2}")
 print("-" * 30)
 
 # 2. Виконання арифметичних операцій
